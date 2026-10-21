@@ -1,3 +1,3 @@
 # Not Uygulamasi
 Bu repo, ders notlarini ve komut alistirmalarini tutan temel bir not uygulamasidir.
-Geliştirici: Hakan Arda Durmaz (main versiyonu)
+Geliştirici: Hakan Arda Durmaz (main ve feature versiyonlari birlestirildi)
