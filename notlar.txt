@@ -9,3 +9,4 @@
 3. git add: Degisiklikleri staging area'ya ekler.
 4. git commit: Degisiklikleri yerel depoya kaydeder.
 5. git log: Commit gecmisini listeler.
+# Hafta 2 notlari tamamlandi.
